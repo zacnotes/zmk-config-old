@@ -1,0 +1,9 @@
+file_format: "1"
+id: zacnotes
+name: zacnotes
+type: shield
+url: https://github.com/zacnotes/zmk-config
+requires:
+  - pro micro
+features:
+  - keys
