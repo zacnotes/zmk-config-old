@@ -1,6 +1,0 @@
-if SHIELD_zacnotes
-
-config ZMK_KEYBOARD_NAME
-    default "zacnotes"
-
-endif
